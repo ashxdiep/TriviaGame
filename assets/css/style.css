@@ -1,0 +1,16 @@
+span{
+  padding-top: 300px;
+}
+
+.ux{
+  background-image:url('../../assets/images/background.png');
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:center;
+  z-index : 0;
+}
+
+footer{
+  z-index: 3000;
+  color: black;
+}
